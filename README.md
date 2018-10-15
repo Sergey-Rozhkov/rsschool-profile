@@ -1,2 +1,2 @@
 Sergey Rozhkov
-HTML CSS Basics: https://www.codecademy.com/users/S.Rozhkov.BY/achievements
+HTML CSS Basics: https://www.codecademy.com/users/srozhkov/achievements
